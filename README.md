@@ -1,6 +1,6 @@
 # :bookmark_tabs: Classification Methods - Student Performance Dataset
 
-## :mag: 1. Project Overview & Objective
+## :mag: 1. Project Overview & Dataset
 
 This study has one main objective: develop and present a comprehensive exploration and implementation of various Classification methods, utilizing the Student Performance dataset to predict student academic success.
 
@@ -16,5 +16,3 @@ Because the data is synthetically generated, it avoids any privacy or ethical is
 
 Source: Kaggle - https://www.kaggle.com/datasets/kundanbedmutha/student-performance-dataset/data
 
-
-## 2. About Dataset
